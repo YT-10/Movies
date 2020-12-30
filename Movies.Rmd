@@ -1,0 +1,88 @@
+---
+title: "Top 50 movies"
+author: "Yusuf Tatlier"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+
+
+This list gives an overview of my top 50 movies (that I have seen). Of course the list is subject to change and is on points a bit arbitrary, as it is difficult to rank certain movies against each other.
+
+Some additional notes for the ranking:
+
+* I count movies in a series as one unless I rate some parts clearly lower.
+* Movies in the non top-3 classes are in an alphabetical order.
+* All movies contain a link to the imdb (main) page of the corresponding movie. In case of a series, this link will be to the first part.
+
+### Top 3
+
+
+1. [The Matrix (1999)](https://www.imdb.com/title/tt0133093/)
+2. [Dogman (2018)](https://www.imdb.com/title/tt6768578/)
+3. [Canim Kardesim / My Dear Brother (1973)](https://www.imdb.com/title/tt0267351/?ref_=nv_sr_srsg_0)
+
+
+### 4-10
+
+* [Das Weisse Band / The White Ribbon (2009)](https://www.imdb.com/title/tt1149362/?ref_=nv_sr_srsg_0)
+* [Hana-bi / Fireworks (1997)](https://www.imdb.com/title/tt0119250/?ref_=nv_sr_srsg_0)
+* [Le Trou (1960)](https://www.imdb.com/title/tt0054407/?ref_=nv_sr_srsg_0)
+* [Ningen No Joken / The Human Condition (I,II,III) (1959,1960,1961)](https://www.imdb.com/title/tt0053114/?ref_=nv_sr_srsg_0)
+* [Seppuku / Harakiri (1962)](https://www.imdb.com/title/tt0056058/?ref_=nv_sr_srsg_0)
+* [Suna No Onna / The Woman in the Dunes (1964)](https://www.imdb.com/title/tt0058625/?ref_=nv_sr_srsg_2)
+* [The Godfather (I and II) (1972, 1974)](https://www.imdb.com/title/tt0068646/?ref_=nv_sr_srsg_0)
+
+
+### 11-25
+
+
+* [Amores Perros (2000)](https://www.imdb.com/title/tt0245712/?ref_=nv_sr_srsg_0)
+* [Dai-bosatsu toge / The Sword of Doom (1966)](https://www.imdb.com/title/tt0060277/?ref_=nv_sr_srsg_0)
+* [Dogville (2003)](https://www.imdb.com/title/tt0276919/?ref_=nv_sr_srsg_0)
+* [Kill Bill (I and II) (2003, 2004)](https://www.imdb.com/title/tt0266697/?ref_=nv_sr_srsg_0)
+* [Maljukgeori Janhoksa / Once Upon a Time in High School (2004)](https://www.imdb.com/title/tt0390205/?ref_=fn_al_tt_1)
+* [Muhsin Bey / Mr. Muhsin (1987)](https://www.imdb.com/title/tt0184756/?ref_=nv_sr_srsg_0)
+* [Omohide Poro Poro / Only Yesterday (1991)](https://www.imdb.com/title/tt0102587/?ref_=nv_sr_srsg_0)
+* [Papillon (1973)](https://www.imdb.com/title/tt0070511/?ref_=nv_sr_srsg_3)
+* [Prisoners (2013)](https://www.imdb.com/title/tt1392214/?ref_=nv_sr_srsg_0)
+* [Pulp Fiction (1994)](https://www.imdb.com/title/tt0110912/?ref_=nv_sr_srsg_0)
+* [Stalker (1979)](https://www.imdb.com/title/tt0079944/?ref_=nv_sr_srsg_0)
+* [The Animatrix (2003)](https://www.imdb.com/title/tt0328832/?ref_=nv_sr_srsg_0)
+* [The Terminator (I and II) (1984, 1991)](https://www.imdb.com/title/tt0088247/?ref_=fn_tt_tt_1)
+* [There Will Be Blood (2007)](https://www.imdb.com/title/tt0469494/?ref_=nv_sr_srsg_0)
+* [Zugurt Aga / The Broken Landlord (1985)](https://www.imdb.com/title/tt0201368/?ref_=nv_sr_srsg_0)
+
+
+### 26-40
+
+* [Bir zamanlar Anadolu'da / Once Upon a Time in Anatolia (2011)](https://www.imdb.com/title/tt1827487/?ref_=fn_al_tt_1)
+* [Dare Mo Shiranai / Nobody Knows (2004)](https://www.imdb.com/title/tt0408664/?ref_=nv_sr_srsg_0)
+* [Dark City (1998)](https://www.imdb.com/title/tt0118929/?ref_=nv_sr_srsg_0)
+* [Das Leben der Anderen / The Live of Others (2006)](https://www.imdb.com/title/tt0405094/?ref_=nv_sr_srsg_0)
+* [Hotaru No Haka / Grave of the Fireflies (1988)](https://www.imdb.com/title/tt0095327/?ref_=nv_sr_srsg_0)
+* [Kokuhaku / Confessions (2010)](https://www.imdb.com/title/tt1590089/?ref_=nv_sr_srsg_0)
+* [Krotki Film O Zabijaniu / A Short Film About Killing (1988)](https://www.imdb.com/title/tt0095468/)
+* [Office Space (1999)](https://www.imdb.com/title/tt0151804/?ref_=nv_sr_srsg_0)
+* [Relatos Salvajes / Wild Tales (2014)](https://www.imdb.com/title/tt3011894/?ref_=nv_sr_srsg_0)
+* [Reservoir Dogs (1992)](https://www.imdb.com/title/tt0105236/?ref_=nv_sr_srsg_0)
+* [The Pianist (2002)](https://www.imdb.com/title/tt0253474/?ref_=nv_sr_srsg_0)
+* [The Truman Show (1998)](https://www.imdb.com/title/tt0120382/?ref_=nv_sr_srsg_0)
+* [The Usual Suspects (1995)](https://www.imdb.com/title/tt0114814/?ref_=nv_sr_srsg_0)
+* [Un Prophete / A Prophet (2009)](https://www.imdb.com/title/tt1235166/?ref_=nv_sr_srsg_0)
+* [Yoksul (1986)](https://www.imdb.com/title/tt0253966/?ref_=nv_sr_srsg_0)
+
+### 41-50
+
+* [Black Hawk Down (2001)](https://www.imdb.com/title/tt0265086/?ref_=nv_sr_srsg_0)
+* [Hokuto No Ken / Fist of the North Star (1984)](https://www.imdb.com/title/tt0142371/?ref_=nv_sr_srsg_1)
+* [Howl's Moving Castle (1984)](https://www.imdb.com/title/tt0347149/?ref_=ttls_li_tt)
+* [Kirschbl&uuml;ten - Hanami / Cherry Blossoms (2008)](https://www.imdb.com/title/tt0910559/?ref_=nv_sr_srsg_0)
+* [Kwaidan (1964)](https://www.imdb.com/title/tt0058279/?ref_=nv_sr_srsg_0)
+* [Margin Call (2011)](https://www.imdb.com/title/tt1615147/)
+* [One Flew Over the Cuckoo's Nest (1975)](https://www.imdb.com/title/tt0073486/?ref_=nv_sr_srsg_0)
+* [The Beautiful Country (2004)](https://www.imdb.com/title/tt0273108/)
+* [They Live (1988)](https://www.imdb.com/title/tt0096256/?ref_=nv_sr_srsg_0)
+* [Z&uuml;b&uuml;k (1980)](https://www.imdb.com/title/tt0253991/?ref_=nv_sr_srsg_0)
